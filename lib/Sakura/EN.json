@@ -1,0 +1,56 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "DARK YASIYA",
+  "THEME": "EN",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*Your bot is already on latest version Darling♻️*",
+          "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
+          "UPDATED_LOCAL": "*Successfully Updated!✅*"
+      },
+      "global": {
+          "greet2": "Konnichiwa!(💚ω💚)",
+          "botName": "SAKURA MD",
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝-𝐵𝑜𝑡𝑡𝑜",
+          "pic1": "https://telegra.ph/file/6f91dfd151982e0264a75.jpg",
+          "pic2": "https://telegra.ph/file/3c9e574a3d4acfd0baa42.jpg",
+          "pic3": "https://telegra.ph/file/6f91dfd151982e0264a75.jpg",
+          "pic4": "https://telegra.ph/file/3c9e574a3d4acfd0baa42.jpg",
+          "pic5": "https://telegra.ph/file/6f91dfd151982e0264a75.jpg",
+          "pic6": "https://telegra.ph/file/3c9e574a3d4acfd0baa42.jpg",
+          "pic7": "https://telegra.ph/file/4a042bb30b1035dbf8d24.jpg",
+           "greet" : "Darling",
+          "dotbody" : "Hey Love,I am Alive.",
+          "promote": "Admin Role Given to my Darling",
+          "pmallow": "*Hii,This is Zero-Two*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+          "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙰𝙺𝚄𝚁𝙰 𝙼𝙳_",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙰𝙺𝚄𝚁𝙰 𝙼𝙳*",
+          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙰𝙺𝚄𝚁𝙰 𝙼𝙳*", 
+          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙰𝙺𝚄𝚁𝙰 𝙼𝙳_",
+          "demote": "Uhh,Admin Role Taken back",
+          "antlink": "Link Detected.\n*Good Bye Sir*",
+          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙰𝙺𝚄𝚁𝙰 𝙼𝙳*",
+          "mention": " Please mention any user Darling",
+          "title": "𝐒𝐀𝐊𝐔𝐑𝐀 𝐌𝐃",
+          "footer": "𝐒𝐀𝐊𝐔𝐑𝐀 𝐌𝐃",
+          "by": "Made by: *CitelVoid*",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "Done ✓",
+          "dot": "Darling📍, Do you mean *-help?*",
+          "couple_male": "*I dont want to die alone,I want a female yaar*",
+          "couple_female": "*I dont want to die alone,I want a male yaar*",
+          "admin": "𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙸𝚂 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙳𝙼𝙸𝙽 🧛!",
+          "botAdmin": "𝙸𝙵 𝚈𝙾𝚄 𝚁𝙴𝙰𝙻𝙻𝚈 𝚆𝙰𝙽𝚃 𝙼𝙴 𝚃𝙾 𝙳𝙾 𝙶𝙸𝚅𝙴 𝚃𝙷𝙰𝚃 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙿𝚁𝙸𝚅𝙸𝙻𝙴𝙶𝙴 🧛❗",
+          "owner": "𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙸𝚂 𝙾𝙽𝙻𝚈 𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 👩‍💻",
+          "group": "𝚃𝙷𝙸𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝙸𝚂 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝙶𝚁𝙾𝚄𝙿 ⛔",
+          "private": "𝚃𝙷𝙸𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝙸𝙽 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝚃𝙷𝙴 𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 👩‍💻",
+          "bot": "𝚃𝙷𝙸𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝙸𝙽 𝙾𝙽𝙻𝚈 𝙵𝙾𝚁 𝚃𝙷𝙴 𝙱𝙾𝚃 𝙽𝚄𝙼𝙱𝙴𝚁 🧛",
+          "wait": "𝚙𝚛𝚘𝚌𝚎𝚜𝚜𝚒𝚗𝚐 𝚢𝚘𝚞𝚛 𝚛𝚎𝚚𝚞𝚎𝚜𝚝✅"
+      },
+      "error": {
+          "text": "*Uhh,Got an Error*"
+      }
+  }
+}
