@@ -10,19 +10,19 @@
   <a aria-label="Join Support chats" href="https://chat.whatsapp.com/CCkiMGz5ir044sqLYf7c1h" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Sakura is free to use" href="https://github.com/DarkChamaofc/SAKURA-MD/blob/main/LICENCE" target="_blank">
+  <a aria-label="Sakura is free to use" href="https://github.com/DarkChamaofc01/SAKURA-MD/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
 
 </p>
     
     
-![forks](https://img.shields.io/github/forks/DarkChamaofc/SAKURA-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/DarkChamaofc01/SAKURA-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/DarkChamaofc/SAKURA-MD?style=social)
+![stars](https://img.shields.io/github/stars/DarkChamaofc01/SAKURA-MD?style=social)
   
 #### ```TOTAL PROFILE VIEWS 🌍```
-![Visitor Count](https://profile-counter.glitch.me/DarkChamaofc/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/DarkChamaofc01/count.svg) 
 
 
 ## `➣ WHATSAPP LOGING`
@@ -56,7 +56,7 @@ click the below button to deploy on heroku!
 
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/DarkChamaofc/SAKURA-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/DarkChamaofc01/SAKURA-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -87,7 +87,7 @@ click the below button to deploy on heroku!
 
 ## [☰💃 𝐒𝐀𝐊𝐔𝐑𝐀 𝐌𝐃 𝐓𝐄𝐀𝐌 💃☰]
 
-| <a href="https://github.com/yasiyaofc1"><img src="https://telegra.ph/file/f94c2dd16ca20b270db3a.jpg" width=80 height=80></a> | <a href="http://github.com/induwaraofc"><img src="https://telegra.ph/file/903e16f9effd8de11cc76.jpg" width=80 height=80></a> | <img src="https://telegra.ph/file/a8ba0753cee4c95c9b0be.jpg" width=80 height=80></a> |
+| <a href="https://github.com/DarkYasiyaofc"><img src="https://telegra.ph/file/f94c2dd16ca20b270db3a.jpg" width=80 height=80></a> | <a href="http://github.com/induwaraofc"><img src="https://telegra.ph/file/903e16f9effd8de11cc76.jpg" width=80 height=80></a> | <img src="https://telegra.ph/file/a8ba0753cee4c95c9b0be.jpg" width=80 height=80></a> |
 |---|---|---|
 | **[DARK YASIYA](https://github.com/yasiyaofc1)**</br>devaloper and founder</br> | **[DARK INDUWARA](https://github.com/induwaraofc)**</br> co-owner and bug tester| **[DARK CHAMA](https://github.com/DarkChamaofc)**</br> co-owner and owner
 
