@@ -25,7 +25,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/DarkChamaofc/count.svg) 
 
 
-## `➣WHATSAPP LOGING`
+## `➣ WHATSAPP LOGING`
 
 - To use This bot you need to scan the qr code<br>
 
