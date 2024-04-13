@@ -91,4 +91,4 @@ click the below button to deploy on heroku!
 |---|---|---|
 | **[DARK YASIYA](https://github.com/yasiyaofc1)**</br>devaloper and founder</br> | **[DARK INDUWARA](https://github.com/induwaraofc)**</br> co-owner and bug tester| **[DARK CHAMA](https://github.com/DarkChamaofc)**</br> co-owner and owner
 
-`Release date:- comming soon`
+`Release date:- 2024-04-13`
