@@ -30,6 +30,7 @@
 - To use This bot you need to scan the qr code<br>
 
 **[SCAN QR-CODE](http://sakura-md-test-01.onrender.com/qr)**
+
 **[PAIR CODE](http://sakura-md-test-01.onrender.com/pair)**
 
 
